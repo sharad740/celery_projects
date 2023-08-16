@@ -1,0 +1,7 @@
+djangorestframework
+markdown
+django-filter
+redis
+celery
+django-celery-results
+django-celery-beat
